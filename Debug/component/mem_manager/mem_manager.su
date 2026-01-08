@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\MCUXpressoIDE_25.6.136\workspace\kfx_backpan_fusion\drivers/fsl_common.h:552:28:DisableGlobalIRQ	16	static
+C:\Users\Lenovo\Documents\MCUXpressoIDE_25.6.136\workspace\kfx_backpan_fusion\drivers/fsl_common.h:583:24:EnableGlobalIRQ	24	static
+../component/mem_manager/mem_manager.c:130:14:MEM_Init	16	static
+../component/mem_manager/mem_manager.c:175:14:MEM_AddBuffer	40	static
+../component/mem_manager/mem_manager.c:303:7:MEM_BufferAllocWithId	32	static
+../component/mem_manager/mem_manager.c:373:14:MEM_BufferFree	24	static
+../component/mem_manager/mem_manager.c:410:10:MEM_BufferGetSize	24	static
+../component/mem_manager/mem_manager.c:434:14:MEM_BufferFreeAllWithId	32	static
+../component/mem_manager/mem_manager.c:473:7:MEM_BufferRealloc	24	static
